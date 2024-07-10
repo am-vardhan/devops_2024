@@ -3,3 +3,6 @@ HI hello..!
 
 
 This is first file from developer 1
+
+
+adding second commit into it
